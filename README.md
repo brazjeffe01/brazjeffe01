@@ -1,6 +1,6 @@
 ### Olá, sou o Jefferson, tudo certo? 👋
 
-- 🌱 Atualmente estou estudando Angular e aprimorando os conhecimentos em HTML, CSS, Javascript e SASS
+- 🌱 Atualmente estou aprimorando os conhecimentos em HTML, CSS, Javascript e SASS
 <div>
    <a href="https://github.com/brazjeffe01">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brazjeffe01&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
