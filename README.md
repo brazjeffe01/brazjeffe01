@@ -1,5 +1,6 @@
-### Olá, sou o Jefferson, tudo certo? 👋
+### Opa, tudo certo? 👋
 
+- 😎 Futuro Analista de Testes/QA
 - 🌱 Atualmente estou aprimorando os conhecimentos em Automação de Testes de Software
 <div>
    <a href="https://github.com/brazjeffe01">
