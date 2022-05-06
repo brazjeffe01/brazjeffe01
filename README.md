@@ -1,6 +1,6 @@
 ### Opa, tudo certo? 👋
 
-- 😎 Futuro Analista de Testes/QA
+- 😎 Apaixonado por Desenvolvimento e Testes Automatizados
 - 🌱 Atualmente estou aprimorando os conhecimentos em Automação de Testes de Software
 <div>
    <a href="https://github.com/brazjeffe01">
