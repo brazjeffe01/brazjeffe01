@@ -1,6 +1,6 @@
 ### Opa, tudo certo? 👋
 
-- 😎 Apaixonado por Desenvolvimento e Testes Automatizados
+- 😎 Apaixonado por Desenvolvimento e Testes de Software
 - 🌱 Atualmente estou aprimorando os conhecimentos em Automação de Testes de Software
 <div>
    <a href="https://github.com/brazjeffe01">
